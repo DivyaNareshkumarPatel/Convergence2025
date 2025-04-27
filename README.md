@@ -3,7 +3,7 @@
 # Convergence date - 15/09/2025
 ## Coming Soon!
 ## Our website is under construction for convergence event pre-convergence event has been sucessfully completed. Exciting things are on the way — stay tuned!
-Welcome to the official repository for the **Convergence** and **Pre-Convergence** event management system developed for my university **Ganpat University**.
+Welcome to the repository for the **Convergence** and **Pre-Convergence** event management system developed for my university **Ganpat University**.
 
 This platform was created to digitize and streamline the organization of our flagship college events, enabling online registration, event management, and real-time updates.
 
